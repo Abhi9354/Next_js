@@ -1,4 +1,7 @@
 
+
+
+
 const Product = ({prod}) => {
   return (
     <div className="border w-96">
